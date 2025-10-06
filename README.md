@@ -26,7 +26,7 @@
 
 - 👨‍💻 All of my projects are available at [...](...)
 
-- 💬 Ask me about **...**
+- 💬 Ask me about **Javascript, Reactjs, java, Spring boot**
 
 - 📫 How to reach me **vuongdachaivang@gmail.com**
 
