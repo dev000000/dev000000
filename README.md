@@ -1,264 +1,43 @@
-<h1 align="center">Hi 👋, I'm Hai Vang</h1>
-<h3 align="center">A passionate developer from VietNam</h3>
+# Hi 👋, I'm Hai Vang
 
-<p align="left">
-  <img
-    src="https://komarev.com/ghpvc/?username=dev000000&label=Profile%20views&color=0e75b6&style=flat"
-    alt="dev000000"
-  />
-</p>
+### A passionate developer
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"
-    ><img
-      src="https://github-profile-trophy.vercel.app/?username=dev000000"
-      alt="dev000000"
-  /></a>
-</p>
+![Profile views](https://komarev.com/ghpvc/?username=dev000000&label=Profile%20views&color=0e75b6&style=flat)
 
-- 🔭 I’m currently working on **...**
+[![Trophy](https://github-profile-trophy.vercel.app/?username=dev000000)](https://github.com/ryo-ma/github-profile-trophy)
 
-- 🌱 I’m currently learning **...**
+---
 
-- 👯 I’m looking to collaborate on **...**
+### Connect with me:
 
-- 🤝 I’m looking for help with **...**
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dev000000) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hai-vang-vuong-dac-626419360) [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/vuong.ac.vang) [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/dev000000)
 
-- 👨‍💻 All of my projects are available at [...](...)
+---
 
-- 💬 Ask me about **Javascript, Reactjs, java, Spring boot**
+### Languages and Tools:
 
-- 📫 How to reach me **vuongdachaivang@gmail.com**
+![AWS](https://skillicons.dev/icons?i=aws)
+![Babel](https://skillicons.dev/icons?i=babel)
+![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
+![CSS3](https://skillicons.dev/icons?i=css)
+![Docker](https://skillicons.dev/icons?i=docker)
+![Git](https://skillicons.dev/icons?i=git)
+![HTML5](https://skillicons.dev/icons?i=html)
+![Java](https://skillicons.dev/icons?i=java)
+![JavaScript](https://skillicons.dev/icons?i=js)
+![Jest](https://skillicons.dev/icons?i=jest)
+![MongoDB](https://skillicons.dev/icons?i=mongodb)
+![MySQL](https://skillicons.dev/icons?i=mysql)
+![Postman](https://skillicons.dev/icons?i=postman)
+![React](https://skillicons.dev/icons?i=react)
+![Redux](https://skillicons.dev/icons?i=redux)
+![Sass](https://skillicons.dev/icons?i=sass)
+![Spring](https://skillicons.dev/icons?i=spring)
+![TypeScript](https://skillicons.dev/icons?i=ts)
+![Webpack](https://skillicons.dev/icons?i=webpack)
 
-- ⚡ Fun fact **...**
+---
 
+### GitHub Stats:
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/h-vang-626419360" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="h-vang-626419360"
-      height="45"
-      width="60"
-  /></a>
-  <a href="https://fb.com/vuong.ac.vang" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-      alt="vuong.ac.vang"
-      height="45"
-      width="60"
-  /></a>
-  <a href="https://www.youtube.com/@dev6so0" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"
-      alt="@dev6so0"
-      height="45"
-      width="60"
-  /></a>
-  <a href="https://www.leetcode.com/dev000000" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
-      alt="hvangdev"
-      height="45"
-      width="60"
-  /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <!-- HTML -->
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-      alt="html5"
-      width="60"
-      height="60"
-    />
-  </a>
-
-  <!-- CSS -->
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-      alt="css3"
-      width="60"
-      height="60"
-    />
-  </a>
-
-  <!-- JavaScript -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-      alt="javascript"
-      width="60"
-      height="60"
-    />
-  </a>
-  <!-- TypeScript -->
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-      alt="typescript"
-      width="60"
-      height="60"
-    />
-  </a>
-
-  <!-- React -->
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-      alt="react"
-      width="60"
-      height="60"
-    />
-  </a>
-  <!-- Redux -->
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"
-      alt="redux"
-      width="60"
-      height="60"
-    />
-  </a>
-
-  <!-- Bootstrap -->
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-      alt="bootstrap"
-      width="60"
-      height="60"
-    />
-  </a>
-
-  <!-- Sass -->
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
-      alt="sass"
-      width="60"
-      height="60"
-    />
-  </a>
-  <!-- Jest -->
-  <a href="https://jestjs.io" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg"
-      alt="jest"
-      width="60"
-      height="60"
-    />
-  </a>
-
-  <!-- Java -->
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
-      alt="java"
-      width="60"
-      height="60"
-    />
-  </a>
-
-  <!-- Spring Boot -->
-  <a href="https://spring.io/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg"
-      alt="spring"
-      width="60"
-      height="60"
-    />
-  </a>
-
-  <!-- MySQL -->
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-      alt="mysql"
-      width="60"
-      height="60"
-    />
-  </a>
-
-  <!-- MongoDB -->
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-      alt="mongodb"
-      width="60"
-      height="60"
-    />
-  </a>
-
-  <!-- Postman -->
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
-      alt="postman"
-      width="60"
-      height="60"
-    />
-  </a>
-
-  <!-- Git -->
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
-      alt="git"
-      width="60"
-      height="60"
-    />
-  </a>
-
-  <!-- Docker -->
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
-      alt="docker"
-      width="60"
-      height="60"
-    />
-  </a>
-
-  <!-- AWS -->
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
-      alt="aws"
-      width="60"
-      height="60"
-    />
-  </a>
-</p>
-
-<p>
-  <img
-    align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=dev000000&show_icons=true&locale=en&layout=compact"
-    alt="dev000000"
-  />
-</p>
-
-<p>
-  &nbsp;<img
-    align="center"
-    src="https://github-readme-stats.vercel.app/api?username=dev000000&show_icons=true&locale=en"
-    alt="dev000000"
-  />
-</p>
-
-<p>
-  <img
-    align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=dev000000&"
-    alt="dev000000"
-  />
-</p>
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=dev000000)
