@@ -1,43 +1,61 @@
-# Hi 👋, I'm Hai Vang
+<h2 data-importer="text" align="center">Hi 👋, I'm Hai Vang</p>
 
-### A passionate developer
+###
 
-![Profile views](https://komarev.com/ghpvc/?username=dev000000&label=Profile%20views&color=0e75b6&style=flat)
+<div data-importer="socials" align="center">
+  <a href="https://www.linkedin.com/in/hai-vang-vuong-dac-626419360/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.facebook.com/vuong.ac.vang" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+  </a>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
+  <a href="https://www.youtube.com/@dev6so0" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+  </a>
+</div>
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=dev000000)](https://github.com/ryo-ma/github-profile-trophy)
+###
 
----
+<div data-importer="techs" align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=spring" height="40" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+</div>
 
-### Connect with me:
+###
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dev000000) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hai-vang-vuong-dac-626419360) [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/vuong.ac.vang) [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/dev000000)
+<img data-importer="snake" src="https://raw.githubusercontent.com/dev000000/dev000000/snake-output/snake.svg" alt="Snake animation" />
 
----
+###
 
-### Languages and Tools:
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/dev000000/dev000000/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/dev000000/dev000000/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
-![AWS](https://skillicons.dev/icons?i=aws)
-![Babel](https://skillicons.dev/icons?i=babel)
-![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
-![CSS3](https://skillicons.dev/icons?i=css)
-![Docker](https://skillicons.dev/icons?i=docker)
-![Git](https://skillicons.dev/icons?i=git)
-![HTML5](https://skillicons.dev/icons?i=html)
-![Java](https://skillicons.dev/icons?i=java)
-![JavaScript](https://skillicons.dev/icons?i=js)
-![Jest](https://skillicons.dev/icons?i=jest)
-![MongoDB](https://skillicons.dev/icons?i=mongodb)
-![MySQL](https://skillicons.dev/icons?i=mysql)
-![Postman](https://skillicons.dev/icons?i=postman)
-![React](https://skillicons.dev/icons?i=react)
-![Redux](https://skillicons.dev/icons?i=redux)
-![Sass](https://skillicons.dev/icons?i=sass)
-![Spring](https://skillicons.dev/icons?i=spring)
-![TypeScript](https://skillicons.dev/icons?i=ts)
-![Webpack](https://skillicons.dev/icons?i=webpack)
-
----
-
-### GitHub Stats:
-
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=dev000000)
+###
